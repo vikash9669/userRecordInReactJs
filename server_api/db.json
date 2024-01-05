@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "vikash",
+      "email": "vikash@123",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ],
+  "users": [
+    {
+      "name": "vikas kushwaha",
+      "email": "vikas@123",
+      "phone": "1234567890",
+      "id": 1
+    }
+  ]
+}
